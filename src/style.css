@@ -1444,3 +1444,12 @@ a.tag-tools:hover {
 .text-center {
     text-align: center;
 }
+
+/* Latex/Katex */
+@media only screen and (max-width: 600px) {
+    .katex-display > .katex {
+        max-width: 100%;
+        overflow-x: auto;
+        overflow-y: hidden;
+    }
+}
