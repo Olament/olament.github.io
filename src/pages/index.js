@@ -46,9 +46,8 @@ export default function Home({data}) {
                 rel="noreferrer"
                 className="button"
               >
-                <div style={{display: "flex"}}>
-                  My Github profile <img src={GithubIcon} alt="Github Logo" style={{display: "inline-block", marginLeft: "0.5rem"}}/>
-                </div>
+                  My Github profile <img src={GithubIcon} alt="Github Logo"
+                                         style={{display: "inline-block", margin: "0 0 0 0.5rem", maxWidth: "2.5rem", maxHeight: "2.5rem"}}/>
               </a>
             </p>
           </div>
