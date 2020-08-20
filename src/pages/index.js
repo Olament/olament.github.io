@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react'
 import { graphql } from 'gatsby'
+import Helmet from "react-helmet"
 
 import Layout from "../components/layout"
 import Projects from '../components/project'
@@ -28,6 +29,7 @@ export default function Home({data}) {
 
   return (
     <Layout>
+      <Helmet title={"Zixuan Guo"} />
       <section className="lead">
         <div className="container">
           <div className="copy">
