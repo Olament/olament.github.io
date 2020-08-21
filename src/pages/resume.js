@@ -52,7 +52,7 @@ export default function About() {
         <h3 style={{marginTop: "0.25rem", paddingTop: "1rem", borderBottom: "1px solid var(--border)"}}>Projects</h3>
         <Experience data={{
           title: "gDHT: A self-hosted distributed torrent search engine suite",
-          link: "https://github.com/Olament/HLTV-Go",
+          link: "https://github.com/Olament/gDHT",
           tags: ["Golang", "Docker", "Redis", "ElasticSearch", "Spring"],
           description: [
             "Implemented BiTorrent mainline DHT network crawler using Golang and server-client communication with gRPC.",
