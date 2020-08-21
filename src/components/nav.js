@@ -13,6 +13,9 @@ export default function Nav() {
             </Link>
           </div>
           <div className="flex">
+            <Link to="/resume">
+              Resume
+            </Link>
             <Link to="/about">
               About
             </Link>

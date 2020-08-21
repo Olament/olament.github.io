@@ -41,7 +41,6 @@ export default function Posts({ data, tags, showYears }) {
                   node.tags.map((tag) => (
                     <Link
                       key={tag}
-                      to={node.slug}
                       className={`tag-${tag}`}
                     >
                       {tag}

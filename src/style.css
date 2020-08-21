@@ -1292,7 +1292,6 @@ a.tag-sql:hover {
 }
 
 a.tag-linux,
-a.tag-swift,
 a.tag-git,
 a.tag-snippets,
 a.tag-html {
@@ -1438,6 +1437,67 @@ a.tag-tools {
 a.tag-notes:hover,
 a.tag-tools:hover {
     background: #ae3ec9;
+    color: white;
+}
+
+/* Program language & Tools Tagging */
+a.tag-Swift {
+    background: #ae3ec9;
+    color: white;
+}
+
+a.tag-Swift {
+    background: #f2873d;
+    color: white;
+}
+
+a.tag-Golang {
+    background: #00a3cf;
+    color: white;
+}
+
+a.tag-Python {
+    background: #2c6692;
+    color: white;
+}
+
+a.tag-Docker {
+    background: #158de6;
+    color: white;
+}
+
+a.tag-PyTorch {
+    background: #e5402c;
+    color: white;
+}
+
+a.tag-Redis {
+    background: #d22622;
+    color: white;
+}
+
+a.tag-ElasticSearch {
+    background: #38b4a8;
+    color: white;
+}
+
+a.tag-Spring {
+    background: #66a942;
+    color: white;
+}
+
+a.tag-Flask {
+    background: #a9a9a9;
+    color: white;
+}
+
+a.tag-mongoDB {
+    background: #308f43;
+    color: white;
+}
+
+a.tag-SQLite {
+    background: #0074c1;
     color: white;
 }
 

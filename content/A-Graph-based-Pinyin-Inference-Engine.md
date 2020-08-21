@@ -2,7 +2,7 @@
 slug: "/blog/a-graph-based-pinyin-inference-Engine"
 title: A Graph-based Pinyin Inference Engine
 date: 2020-02-18 23:36:45
-tags: [swift]
+tags: [Swift]
 ---
 
 ## Introduction
