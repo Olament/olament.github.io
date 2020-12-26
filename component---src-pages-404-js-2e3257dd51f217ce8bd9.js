@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(t,a,e){"use strict";e.r(a),e.d(a,"default",(function(){return u}));e("q1tI");var n=e("qhky"),c=e("Bl7J"),l=e("qKvR");function u(){return Object(l.a)(c.a,null,Object(l.a)(n.a,{title:"404 | Zixuan Guo"}),Object(l.a)("div",{className:"container text-center"},Object(l.a)("header",null,Object(l.a)("h1",null,"404"),Object(l.a)("p",{className:"subtitle"},"This was probably a mistake."))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-2e3257dd51f217ce8bd9.js.map
