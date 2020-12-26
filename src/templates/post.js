@@ -11,7 +11,6 @@ export default function Template({ data }) {
   return (
     <Layout>
       <div className="container">
-        <section className="grid post">
           <article>
             <header className="article-header">
               <div className="container">
@@ -22,7 +21,6 @@ export default function Template({ data }) {
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </article>
-        </section>
       </div>
     </Layout>
   )
